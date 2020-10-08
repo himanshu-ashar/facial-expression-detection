@@ -3,6 +3,7 @@ A Flask API which enables the user to visualize facial expressions by looking in
 
 ## Requirements:
 Tensorflow 2.0.0
+
 Flask 
 
 The dataset contained images of size 48 x 48 due to limitations on computational resources. If needed, a better dataset can be used with the model created in facial_expression.ipynb.
